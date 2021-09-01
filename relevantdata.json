@@ -1,0 +1,3629 @@
+[    
+    {
+        "address": "121 Evan Street, PENRITH NSW 2750",
+        "suburb": "PENRITH",
+        "price": 729000.0,
+        "beds": "3",
+        "baths": "1",
+        "parking": "2",
+        "size": "696m² "
+    },
+    {
+        "address": "59 Empire Circuit, PENRITH NSW 2750",
+        "suburb": "PENRITH",
+        "price": 789000.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "CALL BHARGAV BRAMALL AVENUE, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 1700000.0,
+        "beds": "8",
+        "baths": "6",
+        "parking": "2",
+        "size": "500m² "
+    },
+    {
+        "address": "5 BED + 3 BATH + MED SUNDEW PARADE, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 1392180.0,
+        "beds": "5",
+        "baths": "3",
+        "parking": "2",
+        "size": "631m² "
+    },
+    {
+        "address": "5 BED + 3 BATH + MED SUNDEW PARADE, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 1397180.0,
+        "beds": "5",
+        "baths": "3",
+        "parking": "2",
+        "size": "631m² "
+    },
+    {
+        "address": "Lot 4228 Farlow Parade, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 1249900.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "465m² "
+    },
+    {
+        "address": "LOT G Charles Thompson Blvd, Marsden Park, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 1086500.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "364m² "
+    },
+    {
+        "address": "LOT G Charles Thompson Blvd, Marsden Park, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 1075500.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "364m² "
+    },
+    {
+        "address": "Address Available Call Agent, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 995000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": null
+    },
+    {
+        "address": "MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 890000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "300m² "
+    },
+    {
+        "address": "MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 950000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "300m² "
+    },
+    {
+        "address": "Lot TBC Charles Thompson Boulevarde, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 1111500.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "364m² "
+    },
+    {
+        "address": "MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 850000.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "1",
+        "size": "270m² "
+    },
+    {
+        "address": "3 Salix Crescent, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 1449990.0,
+        "beds": "5",
+        "baths": "3",
+        "parking": "2",
+        "size": "400m² "
+    },
+    {
+        "address": "Abell Road, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 960000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "300m² "
+    },
+    {
+        "address": "Mangrove Circuit, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 1010000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "330m² "
+    },
+    {
+        "address": "Lot 1089 Ansell Street, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 995900.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "360m² "
+    },
+    {
+        "address": "15 Salix Crescent, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 949990.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "266m² "
+    },
+    {
+        "address": "8118 Proposed Road, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 938970.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "275m² "
+    },
+    {
+        "address": "8117 Proposed Road, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 918450.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "275m² "
+    },
+    {
+        "address": "8116 Proposed Road, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 1052450.0,
+        "beds": "5",
+        "baths": "3",
+        "parking": "2",
+        "size": "343m² "
+    },
+    {
+        "address": "CALL BHARGAV ARNCLIFFE  AVE, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 1080000.0,
+        "beds": "5",
+        "baths": "3",
+        "parking": "2",
+        "size": "250m² "
+    },
+    {
+        "address": "Lot 4227 Farlow Parade, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 1099900.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "337m² "
+    },
+    {
+        "address": "Lot 4226 Farlow Parade, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 1079900.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "310m² "
+    },
+    {
+        "address": "Lot 4225 Farlow Parade, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 1079900.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "310m² "
+    },
+    {
+        "address": "Lot 4224 Farlow Parade, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 1159900.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "399m² "
+    },
+    {
+        "address": "7 Honeysuckle Parade, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 800000.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "1",
+        "size": "218m² "
+    },
+    {
+        "address": "MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 895000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": null
+    },
+    {
+        "address": "60 Illawong Avenue, PENRITH NSW 2750",
+        "suburb": "PENRITH",
+        "price": 750000.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "3",
+        "size": null
+    },
+    {
+        "address": "31 Ceres St, PENRITH NSW 2750",
+        "suburb": "PENRITH",
+        "price": 950000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "3",
+        "size": "628m² "
+    },
+    {
+        "address": "101 Salix Crescent, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 1069990.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "295m² "
+    },
+    {
+        "address": "6-22 tench avenue, PENRITH NSW 2750",
+        "suburb": "PENRITH",
+        "price": 375000.0,
+        "beds": "2",
+        "baths": "1",
+        "parking": 0,
+        "size": null
+    },
+    {
+        "address": "1/203 Richmond Road, PENRITH NSW 2750",
+        "suburb": "PENRITH",
+        "price": 549000.0,
+        "beds": "3",
+        "baths": "1",
+        "parking": "2",
+        "size": null
+    },
+    {
+        "address": "33 Gascoigne Street, PENRITH NSW 2750",
+        "suburb": "PENRITH",
+        "price": 749000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "556m² "
+    },
+    {
+        "address": "2 Marsdenia Avenue, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 1375000.0,
+        "beds": "5",
+        "baths": "3",
+        "parking": "2",
+        "size": null
+    },
+    {
+        "address": "36 Westbrook Circuit, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 1079990.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "Address Available on Request, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 930000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "340m² "
+    },
+    {
+        "address": "Lot TBA Abell Road, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 880000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "275m² "
+    },
+    {
+        "address": "Lot TBA Abell Road, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 890000.0,
+        "beds": "5",
+        "baths": "3",
+        "parking": "1",
+        "size": "275m² "
+    },
+    {
+        "address": "Lot TBA Abell Road, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 900000.0,
+        "beds": "5",
+        "baths": "2",
+        "parking": "1",
+        "size": "275m² "
+    },
+    {
+        "address": "Lot TBA Abell Road, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 900000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "275m² "
+    },
+    {
+        "address": "Lot TBA Abell Road, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 880000.0,
+        "beds": "5",
+        "baths": "2",
+        "parking": "1",
+        "size": "275m² "
+    },
+    {
+        "address": "Address Available on Request, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 875000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "275m² "
+    },
+    {
+        "address": "Address Available on Request, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 870000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "275m² "
+    },
+    {
+        "address": "Address Available on Request, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 850000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "275m² "
+    },
+    {
+        "address": "6 Inalls Lane, RICHMOND NSW 2753",
+        "suburb": "RICHMOND",
+        "price": 830000.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "2",
+        "size": "557m² "
+    },
+    {
+        "address": "Lot TBA Abell Road, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 940000.0,
+        "beds": "5",
+        "baths": "2",
+        "parking": "1",
+        "size": "275m² "
+    },
+    {
+        "address": "Lot TBA Abell Road, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 1000000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "343m² "
+    },
+    {
+        "address": "MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 850000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "270m² "
+    },
+    {
+        "address": "16 Avens Court, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 1089990.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "250m² "
+    },
+    {
+        "address": "Lot 7816 Proposed Road, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 938950.0,
+        "beds": "5",
+        "baths": "2",
+        "parking": "1",
+        "size": "275m² "
+    },
+    {
+        "address": "Lot 7816 Flametree Drive, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 939587.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "1",
+        "size": "275m² "
+    },
+    {
+        "address": "16 Illawong  Avenue, PENRITH NSW 2750",
+        "suburb": "PENRITH",
+        "price": 699000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "645m² "
+    },
+    {
+        "address": "Lot 7838 Spinifex St, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 1092750.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "343m² "
+    },
+    {
+        "address": "Lot 7728 Proposed Rd, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 1135000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "386m² "
+    },
+    {
+        "address": "Lot 7925 Boab St, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 1069750.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "347m² "
+    },
+    {
+        "address": "MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 1180000.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "2",
+        "size": "400m² "
+    },
+    {
+        "address": "MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 1050000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "400m² "
+    },
+    {
+        "address": "136 Westbrook Circuit, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 1239990.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "2",
+        "size": "350m² "
+    },
+    {
+        "address": "18 Westbrook Circuit, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 1199990.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "2",
+        "size": "300m² "
+    },
+    {
+        "address": "73 Salix Crescent, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 1699990.0,
+        "beds": "6",
+        "baths": "4",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "1/5 Caloola Avenue, PENRITH NSW 2750",
+        "suburb": "PENRITH",
+        "price": 559950.0,
+        "beds": "3",
+        "baths": "1",
+        "parking": "2",
+        "size": null
+    },
+    {
+        "address": "MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 1130000.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "2",
+        "size": "616m² "
+    },
+    {
+        "address": "Lot 7369 Flametree Road, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 995500.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "343m² "
+    },
+    {
+        "address": "7 Bliss Glade (Proposed), MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 839990.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "227m² "
+    },
+    {
+        "address": "29 Blackstone Street, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 1100000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "350m² "
+    },
+    {
+        "address": "2 Cronin Street, PENRITH NSW 2750",
+        "suburb": "PENRITH",
+        "price": 690000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": null
+    },
+    {
+        "address": "Lot 207 Proposed Road, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 899900.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "275m² "
+    },
+    {
+        "address": "Lot 203 Proposed Road, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 824900.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "275m² "
+    },
+    {
+        "address": "Lot 202 Proposed Road, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 794900.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "1",
+        "size": "275m² "
+    },
+    {
+        "address": "Lot 206 Proposed Road, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 899900.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "275m² "
+    },
+    {
+        "address": "Lot 205 Proposed Road, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 869900.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "275m² "
+    },
+    {
+        "address": "Lot 201 Proposed Road, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 794900.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "275m² "
+    },
+    {
+        "address": "Lot 200 Proposed Road, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 776900.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "1",
+        "size": "275m² "
+    },
+    {
+        "address": "2/17 Cronin Street, PENRITH NSW 2750",
+        "suburb": "PENRITH",
+        "price": 599000.0,
+        "beds": "2",
+        "baths": "2",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "4 Bosworth Street, RICHMOND NSW 2753",
+        "suburb": "RICHMOND",
+        "price": 1050000.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "2",
+        "size": null
+    },
+    {
+        "address": "1 The Road, PENRITH NSW 2750",
+        "suburb": "PENRITH",
+        "price": 1000000.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "3",
+        "size": null
+    },
+    {
+        "address": "11 Avens Court, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 1109990.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "1",
+        "size": "250m² "
+    },
+    {
+        "address": "37 Bliss Glade (Proposed), MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 814990.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "11 Naughton Glade (Proposed), MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 839990.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "232m² "
+    },
+    {
+        "address": "71/140 Hollinsworth Drive, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 399000.0,
+        "beds": "2",
+        "baths": "1",
+        "parking": "2",
+        "size": null
+    },
+    {
+        "address": "6 Slack Glade (Proposed), MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 789990.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "19 Hemlock Street, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 1139990.0,
+        "beds": "5",
+        "baths": "3",
+        "parking": "1",
+        "size": "293m² "
+    },
+    {
+        "address": "38A Nepean Avenue, PENRITH NSW 2750",
+        "suburb": "PENRITH",
+        "price": 1199000.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "2",
+        "size": "668m² "
+    },
+    {
+        "address": "10 Hallagan Glade (Proposed), MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 859990.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "45 Bliss Glade (Proposed), MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 819990.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "194m² "
+    },
+    {
+        "address": "51 Bliss Glade (Proposed), MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 819990.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "184m² "
+    },
+    {
+        "address": "5 Salix Crescent, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 1049990.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "296m² "
+    },
+    {
+        "address": "6 Naughton Glade (Proposed), MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 779990.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "6/13 Moray Street, RICHMOND NSW 2753",
+        "suburb": "RICHMOND",
+        "price": 615000.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "2",
+        "size": null
+    },
+    {
+        "address": "106B Lennox St, RICHMOND NSW 2753",
+        "suburb": "RICHMOND",
+        "price": 825000.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "2",
+        "size": "274m² "
+    },
+    {
+        "address": "Pepperberry Parade, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 960000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "375m² "
+    },
+    {
+        "address": "Pepperberry Parade, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 855000.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "1",
+        "size": "375m² "
+    },
+    {
+        "address": "Pepperberry Parade, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 928000.0,
+        "beds": "5",
+        "baths": "2",
+        "parking": "2",
+        "size": "375m² "
+    },
+    {
+        "address": "Pepperberry Parade, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 850000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "275m² "
+    },
+    {
+        "address": "Pepperberry Parade, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 799000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "275m² "
+    },
+    {
+        "address": "Pepperberry Parade, MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 815000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "334m² "
+    },
+    {
+        "address": "6-22 tench avenue, PENRITH NSW 2750",
+        "suburb": "PENRITH",
+        "price": 75000.0,
+        "beds": "1",
+        "baths": "1",
+        "parking": 0,
+        "size": null
+    },
+    {
+        "address": "6-22 tench avenue, PENRITH NSW 2750",
+        "suburb": "PENRITH",
+        "price": 99000.0,
+        "beds": "2",
+        "baths": "1",
+        "parking": 0,
+        "size": null
+    },
+    {
+        "address": "6-22 tench avenue, PENRITH NSW 2750",
+        "suburb": "PENRITH",
+        "price": 99000.0,
+        "beds": "2",
+        "baths": "1",
+        "parking": 0,
+        "size": null
+    },
+    {
+        "address": "MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 974000.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "1",
+        "size": "300m² "
+    },
+    {
+        "address": "59 Bosworth Street, RICHMOND NSW 2753",
+        "suburb": "RICHMOND",
+        "price": 1030000.0,
+        "beds": "2",
+        "baths": "1",
+        "parking": "2",
+        "size": "1,205m² "
+    },
+    {
+        "address": "2/1 Hemmings Street, PENRITH NSW 2750",
+        "suburb": "PENRITH",
+        "price": 499000.0,
+        "beds": "3",
+        "baths": "1",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "30-30A West Market Street, RICHMOND NSW 2753",
+        "suburb": "RICHMOND",
+        "price": 1195000.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "3",
+        "size": "760m² "
+    },
+    {
+        "address": "MARSDEN PARK NSW 2765",
+        "suburb": "MARSDEN PARK",
+        "price": 849000.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "1",
+        "size": "250m² "
+    },
+    {
+        "address": "PENRITH NSW 2750",
+        "suburb": "PENRITH",
+        "price": 1200000.0,
+        "beds": "5",
+        "baths": "3",
+        "parking": "2",
+        "size": "619m² "
+    },
+    {
+        "address": "BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 1459000.0,
+        "beds": "6",
+        "baths": "4",
+        "parking": "2",
+        "size": "450m² "
+    },
+    {
+        "address": "16 Hydra Street, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 1520000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "431m² "
+    },
+    {
+        "address": "Lot 4 Tablelands Road, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 1859900.0,
+        "beds": "5",
+        "baths": "3",
+        "parking": "2",
+        "size": "700m² "
+    },
+    {
+        "address": "Lot 4 Tablelands Road, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 1729900.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "700m² "
+    },
+    {
+        "address": "29A Barker Street, CAMBRIDGE PARK NSW 2747",
+        "suburb": "CAMBRIDGE PARK",
+        "price": 549000.0,
+        "beds": "3",
+        "baths": "1",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "6 St Pauls Crescent, EMU PLAINS NSW 2750",
+        "suburb": "EMU PLAINS",
+        "price": 849000.0,
+        "beds": "3",
+        "baths": "1",
+        "parking": "2",
+        "size": "700m² "
+    },
+    {
+        "address": "8 Gwynn Close, EMU PLAINS NSW 2750",
+        "suburb": "EMU PLAINS",
+        "price": 849000.0,
+        "beds": "3",
+        "baths": "1",
+        "parking": "2",
+        "size": "683m² "
+    },
+    {
+        "address": "17 Toucan Crescent, PLUMPTON NSW 2761",
+        "suburb": "PLUMPTON",
+        "price": 750000.0,
+        "beds": "3",
+        "baths": "1",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "4/32 O'Brien Street, MOUNT DRUITT NSW 2770",
+        "suburb": "MOUNT DRUITT",
+        "price": 600000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "213m² "
+    },
+    {
+        "address": "4 Dale Place, CRANEBROOK NSW 2749",
+        "suburb": "CRANEBROOK",
+        "price": 749000.0,
+        "beds": "3",
+        "baths": "1",
+        "parking": "2",
+        "size": "634m² "
+    },
+    {
+        "address": "WERRINGTON DOWNS NSW 2747",
+        "suburb": "WERRINGTON DOWNS",
+        "price": 799000.0,
+        "beds": "3",
+        "baths": "1",
+        "parking": "3",
+        "size": "626m² "
+    },
+    {
+        "address": "BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 899990.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "251m² "
+    },
+    {
+        "address": "148 Jubilee  Drive, JORDAN SPRINGS NSW 2747",
+        "suburb": "JORDAN SPRINGS",
+        "price": 800000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "538m² "
+    },
+    {
+        "address": "37 Sherringham Road, CRANEBROOK NSW 2749",
+        "suburb": "CRANEBROOK",
+        "price": 745000.0,
+        "beds": "3",
+        "baths": "1",
+        "parking": "1",
+        "size": "633m² "
+    },
+    {
+        "address": "45 Greygums Road, CRANEBROOK NSW 2749",
+        "suburb": "CRANEBROOK",
+        "price": 749000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": 0,
+        "size": "625m² "
+    },
+    {
+        "address": "7115 Camargue Street, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 997670.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "300m² "
+    },
+    {
+        "address": "7334 Castalian Street, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 986350.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "312m² "
+    },
+    {
+        "address": "7332 Castalian Street, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 1052760.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "312m² "
+    },
+    {
+        "address": "22 Kilkenny Road, SOUTH PENRITH NSW 2750",
+        "suburb": "SOUTH PENRITH",
+        "price": 799000.0,
+        "beds": "3",
+        "baths": "1",
+        "parking": "1",
+        "size": "645m² "
+    },
+    {
+        "address": "3 Finisterre Avenue, WHALAN NSW 2770",
+        "suburb": "WHALAN",
+        "price": 660000.0,
+        "beds": "4",
+        "baths": "1",
+        "parking": "1",
+        "size": "677m² "
+    },
+    {
+        "address": "Lot 66 Cirella Street, RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 1060115.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "302m² "
+    },
+    {
+        "address": "80 Eskdale Street, MINCHINBURY NSW 2770",
+        "suburb": "MINCHINBURY",
+        "price": 899950.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "695m² "
+    },
+    {
+        "address": "RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 1111000.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "2",
+        "size": "368m² "
+    },
+    {
+        "address": "3/23-25 Walter Street, KINGSWOOD NSW 2747",
+        "suburb": "KINGSWOOD",
+        "price": 439000.0,
+        "beds": "3",
+        "baths": "1",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "Th 14/124 Cranbourne Street, RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 819990.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "Th 36/124 Cranbourne Street, RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 799990.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "Lot 1703 Proposed Road, NORTH RICHMOND NSW 2754",
+        "suburb": "NORTH RICHMOND",
+        "price": 1204490.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "656m² "
+    },
+    {
+        "address": "SCHOFIELDS NSW 2762",
+        "suburb": "SCHOFIELDS",
+        "price": 1350000.0,
+        "beds": "5",
+        "baths": "3",
+        "parking": "2",
+        "size": "384m² "
+    },
+    {
+        "address": "47 Bottlebrush Drive, CRANEBROOK NSW 2749",
+        "suburb": "CRANEBROOK",
+        "price": 769000.0,
+        "beds": "5",
+        "baths": "2",
+        "parking": "2",
+        "size": "802m² "
+    },
+    {
+        "address": "27 Sinclair Parade, JORDAN SPRINGS NSW 2747",
+        "suburb": "JORDAN SPRINGS",
+        "price": 799000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "300m² "
+    },
+    {
+        "address": "BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 992000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "300m² "
+    },
+    {
+        "address": "MANSO CRESCENT, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 949000.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "1",
+        "size": "273m² "
+    },
+    {
+        "address": "BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 1025000.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "1",
+        "size": "300m² "
+    },
+    {
+        "address": "PRIDHAM AVENUE, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 1251000.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "2",
+        "size": "400m² "
+    },
+    {
+        "address": "SCHOFIELDS NSW 2762",
+        "suburb": "SCHOFIELDS",
+        "price": 1350000.0,
+        "beds": "5",
+        "baths": "3",
+        "parking": "2",
+        "size": "384m² "
+    },
+    {
+        "address": "82 Stuart Road, DHARRUK NSW 2770",
+        "suburb": "DHARRUK",
+        "price": 730000.0,
+        "beds": "3",
+        "baths": "1",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "Lot 16 Proposed road, WERRINGTON NSW 2747",
+        "suburb": "WERRINGTON",
+        "price": 803800.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "253m² "
+    },
+    {
+        "address": "Lot 15 Proposed road, WERRINGTON NSW 2747",
+        "suburb": "WERRINGTON",
+        "price": 713800.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "1",
+        "size": "253m² "
+    },
+    {
+        "address": "6 Shen Street, SCHOFIELDS NSW 2762",
+        "suburb": "SCHOFIELDS",
+        "price": 1100000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": null
+    },
+    {
+        "address": "5 Farmland Drive, SCHOFIELDS NSW 2762",
+        "suburb": "SCHOFIELDS",
+        "price": 1050000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": null
+    },
+    {
+        "address": "LOT 205/30 MASON ROAD, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 869000.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "1",
+        "size": "258m² "
+    },
+    {
+        "address": "Lot 11 Proposed Rd, WILBERFORCE NSW 2756",
+        "suburb": "WILBERFORCE",
+        "price": 1236645.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "750m² "
+    },
+    {
+        "address": "3/15 Frank Street, MOUNT DRUITT NSW 2770",
+        "suburb": "MOUNT DRUITT",
+        "price": 640000.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "2",
+        "size": null
+    },
+    {
+        "address": "BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 1037500.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "297m² "
+    },
+    {
+        "address": "77 Neptune Circuit, SCHOFIELDS NSW 2762",
+        "suburb": "SCHOFIELDS",
+        "price": 1119990.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "Th 31 Grandeur Parade, RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 849990.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "206m² "
+    },
+    {
+        "address": "18 Koara Glade, RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 829990.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "1",
+        "size": "210m² "
+    },
+    {
+        "address": "15 Westmoor Grove, WERRINGTON DOWNS NSW 2747",
+        "suburb": "WERRINGTON DOWNS",
+        "price": 829000.0,
+        "beds": "5",
+        "baths": "2",
+        "parking": "2",
+        "size": "625m² "
+    },
+    {
+        "address": "TH 70/47 Hynds Road (Proposed address), BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 969990.0,
+        "beds": "5",
+        "baths": "3",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "TH 66/47 Hynds Road (Proposed address), BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 869990.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "1 Cadell Street, SCHOFIELDS NSW 2762",
+        "suburb": "SCHOFIELDS",
+        "price": 895000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "250m² "
+    },
+    {
+        "address": "Lot 201 Boundary Road, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 1022600.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "293m² "
+    },
+    {
+        "address": "RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 926000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "309m² "
+    },
+    {
+        "address": "Lot 417 Maunder Street, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 1153135.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "2",
+        "size": "300m² "
+    },
+    {
+        "address": "Lot 416 Maunder Street, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 1166985.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "2",
+        "size": "300m² "
+    },
+    {
+        "address": "Lot 7022 Sardinian Street, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 1096600.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "300m² "
+    },
+    {
+        "address": "Lot 7022 Sardinian Street, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 1121200.0,
+        "beds": "5",
+        "baths": "2",
+        "parking": "2",
+        "size": "300m² "
+    },
+    {
+        "address": "6-7 Antares Place, CRANEBROOK NSW 2749",
+        "suburb": "CRANEBROOK",
+        "price": 1550000.0,
+        "beds": "7",
+        "baths": "4",
+        "parking": "6",
+        "size": "1,078m² "
+    },
+    {
+        "address": "289 Macquarie Street, SOUTH WINDSOR NSW 2756",
+        "suburb": "SOUTH WINDSOR",
+        "price": 780000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "588m² "
+    },
+    {
+        "address": "BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 1199990.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "400m² "
+    },
+    {
+        "address": "21 Corndew Crescent, WERRINGTON DOWNS NSW 2747",
+        "suburb": "WERRINGTON DOWNS",
+        "price": 929000.0,
+        "beds": "5",
+        "baths": "2",
+        "parking": 0,
+        "size": "625m² "
+    },
+    {
+        "address": "123 Stonecutters  Drive, COLEBEE NSW 2761",
+        "suburb": "COLEBEE",
+        "price": 1290000.0,
+        "beds": "5",
+        "baths": "4",
+        "parking": "2",
+        "size": "622m² "
+    },
+    {
+        "address": "1/85 Elizabeth Crescent, KINGSWOOD NSW 2747",
+        "suburb": "KINGSWOOD",
+        "price": 745000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "549m² "
+    },
+    {
+        "address": "Lot 3 Grandeur Parade, RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 1249990.0,
+        "beds": "5",
+        "baths": "3",
+        "parking": "2",
+        "size": "301m² "
+    },
+    {
+        "address": "1 Ludhiana  Glade, SCHOFIELDS NSW 2762",
+        "suburb": "SCHOFIELDS",
+        "price": 760000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "263m² "
+    },
+    {
+        "address": "Lot 29 Myers Street, RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 969490.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "1",
+        "size": "249m² "
+    },
+    {
+        "address": "2 Goldstone Way, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 1298000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "391m² "
+    },
+    {
+        "address": "106 Carroll Crescent, PLUMPTON NSW 2761",
+        "suburb": "PLUMPTON",
+        "price": 719000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "253m² "
+    },
+    {
+        "address": "3/52 Cam Street, CAMBRIDGE PARK NSW 2747",
+        "suburb": "CAMBRIDGE PARK",
+        "price": 579000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": null
+    },
+    {
+        "address": "RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 1017000.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "2",
+        "size": "309m² "
+    },
+    {
+        "address": "RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 1059000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "368m² "
+    },
+    {
+        "address": "RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 955000.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "1",
+        "size": "303m² "
+    },
+    {
+        "address": "RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 922000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "303m² "
+    },
+    {
+        "address": "RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 955000.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "1",
+        "size": "303m² "
+    },
+    {
+        "address": "RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 932000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "322m² "
+    },
+    {
+        "address": "RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 965000.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "1",
+        "size": "322m² "
+    },
+    {
+        "address": "RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 1023000.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "2",
+        "size": "322m² "
+    },
+    {
+        "address": "RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 1012000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "373m² "
+    },
+    {
+        "address": "5 Risbey Place, BLIGH PARK NSW 2756",
+        "suburb": "BLIGH PARK",
+        "price": 819000.0,
+        "beds": "3",
+        "baths": "1",
+        "parking": "2",
+        "size": "544m² "
+    },
+    {
+        "address": "TBC Proposed Road, RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 1019000.0,
+        "beds": "5",
+        "baths": "3",
+        "parking": "1",
+        "size": "310m² "
+    },
+    {
+        "address": "10/19 Plunkett Crescent, MOUNT DRUITT NSW 2770",
+        "suburb": "MOUNT DRUITT",
+        "price": 569950.0,
+        "beds": "3",
+        "baths": "1",
+        "parking": "2",
+        "size": null
+    },
+    {
+        "address": "WERRINGTON NSW 2747",
+        "suburb": "WERRINGTON",
+        "price": 799900.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "253m² "
+    },
+    {
+        "address": "20 Mabuhay Grove, MOUNT DRUITT NSW 2770",
+        "suburb": "MOUNT DRUITT",
+        "price": 679950.0,
+        "beds": "3",
+        "baths": "1",
+        "parking": "1",
+        "size": "354m² "
+    },
+    {
+        "address": "9 Koara Glade, RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 839990.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "MANSO CRESCENT, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 1019000.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "1",
+        "size": "311m² "
+    },
+    {
+        "address": "ZEBU STREET, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 920000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "273m² "
+    },
+    {
+        "address": "LOT TBA/ZEBU STREET, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 1082000.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "2",
+        "size": "311m² "
+    },
+    {
+        "address": "Lot 1 Bungendore Street, JORDAN SPRINGS NSW 2747",
+        "suburb": "JORDAN SPRINGS",
+        "price": 939000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "372m² "
+    },
+    {
+        "address": "156 St Albans  Road, SCHOFIELDS NSW 2762",
+        "suburb": "SCHOFIELDS",
+        "price": 925000.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "1",
+        "size": "250m² "
+    },
+    {
+        "address": "25 Prudence Street, SCHOFIELDS NSW 2762",
+        "suburb": "SCHOFIELDS",
+        "price": 980000.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "2",
+        "size": null
+    },
+    {
+        "address": "3/5 Pecks Road, NORTH RICHMOND NSW 2754",
+        "suburb": "NORTH RICHMOND",
+        "price": 675000.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "2",
+        "size": null
+    },
+    {
+        "address": "72 Barlow Street, CAMBRIDGE PARK NSW 2747",
+        "suburb": "CAMBRIDGE PARK",
+        "price": 900000.0,
+        "beds": "5",
+        "baths": "2",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "5 Mundy Street, EMU PLAINS NSW 2750",
+        "suburb": "EMU PLAINS",
+        "price": 830000.0,
+        "beds": "3",
+        "baths": "1",
+        "parking": "1",
+        "size": "556m² "
+    },
+    {
+        "address": "SCHOFIELDS NSW 2762",
+        "suburb": "SCHOFIELDS",
+        "price": 1099990.0,
+        "beds": "5",
+        "baths": "3",
+        "parking": "2",
+        "size": null
+    },
+    {
+        "address": "RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 829990.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": null
+    },
+    {
+        "address": "RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 1069000.0,
+        "beds": "6",
+        "baths": "4",
+        "parking": "2",
+        "size": "332m² "
+    },
+    {
+        "address": "Lot Alex Ave, SCHOFIELDS NSW 2762",
+        "suburb": "SCHOFIELDS",
+        "price": 969990.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "289m² "
+    },
+    {
+        "address": "Lot 7022 Sardinian Street, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 973000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "300m² "
+    },
+    {
+        "address": "82 Luttrell Street, HOBARTVILLE NSW 2753",
+        "suburb": "HOBARTVILLE",
+        "price": 850000.0,
+        "beds": "3",
+        "baths": "1",
+        "parking": "2",
+        "size": "550m² "
+    },
+    {
+        "address": "9 Wilbur Glade (Proposed Address), SCHOFIELDS NSW 2762",
+        "suburb": "SCHOFIELDS",
+        "price": 839990.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "1",
+        "size": "180m² "
+    },
+    {
+        "address": "5/3 Santley Crescent, KINGSWOOD NSW 2747",
+        "suburb": "KINGSWOOD",
+        "price": 499000.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 899990.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": null
+    },
+    {
+        "address": "SCHOFIELDS NSW 2762",
+        "suburb": "SCHOFIELDS",
+        "price": 999990.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": null
+    },
+    {
+        "address": "178 Pritham Avenue, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 970000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "310m² "
+    },
+    {
+        "address": "RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 888950.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "1",
+        "size": "256m² "
+    },
+    {
+        "address": "RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 1119800.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "301m² "
+    },
+    {
+        "address": "158 St Albans Road, SCHOFIELDS NSW 2762",
+        "suburb": "SCHOFIELDS",
+        "price": 895000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "250m² "
+    },
+    {
+        "address": "LETHBRIDGE PARK NSW 2770",
+        "suburb": "LETHBRIDGE PARK",
+        "price": 719000.0,
+        "beds": "5",
+        "baths": "2",
+        "parking": "2",
+        "size": "569m² "
+    },
+    {
+        "address": "10 Bruckner Place, CLAREMONT MEADOWS NSW 2747",
+        "suburb": "CLAREMONT MEADOWS",
+        "price": 815000.0,
+        "beds": "3",
+        "baths": "1",
+        "parking": "2",
+        "size": null
+    },
+    {
+        "address": "Lot 2505 Mount Carmel Drive, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 1399900.0,
+        "beds": "5",
+        "baths": "3",
+        "parking": "2",
+        "size": "359m² "
+    },
+    {
+        "address": "Lot 35/Proposed Road, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 1059900.0,
+        "beds": "5",
+        "baths": "3",
+        "parking": "2",
+        "size": "300m² "
+    },
+    {
+        "address": "Lot 35 proposed road, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 959900.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "300m² "
+    },
+    {
+        "address": "SCHOFIELDS NSW 2762",
+        "suburb": "SCHOFIELDS",
+        "price": 1050000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "256m² "
+    },
+    {
+        "address": "Lot 5X0 Tuncester Street, COLEBEE NSW 2761",
+        "suburb": "COLEBEE",
+        "price": 995200.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "280m² "
+    },
+    {
+        "address": "25 Tuncester Street, COLEBEE NSW 2761",
+        "suburb": "COLEBEE",
+        "price": 973730.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "280m² "
+    },
+    {
+        "address": "Lot 5X3 Amarina Boulevard, COLEBEE NSW 2761",
+        "suburb": "COLEBEE",
+        "price": 1010700.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "1",
+        "size": "280m² "
+    },
+    {
+        "address": "42 Amarina Boulevard, COLEBEE NSW 2761",
+        "suburb": "COLEBEE",
+        "price": 963730.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "1",
+        "size": "280m² "
+    },
+    {
+        "address": "George Street, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 1215900.0,
+        "beds": "5",
+        "baths": "2",
+        "parking": "2",
+        "size": "350m² "
+    },
+    {
+        "address": "George Street, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 1216900.0,
+        "beds": "5",
+        "baths": "2",
+        "parking": "2",
+        "size": "350m² "
+    },
+    {
+        "address": "BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 965445.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "300m² "
+    },
+    {
+        "address": "34 Ludhiana Glade, SCHOFIELDS NSW 2762",
+        "suburb": "SCHOFIELDS",
+        "price": 800000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "39 Basque Street, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 1032000.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "2",
+        "size": "300m² "
+    },
+    {
+        "address": "40 Basque Street, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 935000.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "1",
+        "size": "251m² "
+    },
+    {
+        "address": "7 Welara Street, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 982000.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "2",
+        "size": "255m² "
+    },
+    {
+        "address": "8 Welara Street, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 935000.0,
+        "beds": "3",
+        "baths": "3",
+        "parking": "1",
+        "size": "251m² "
+    },
+    {
+        "address": "BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 1057500.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "300m² "
+    },
+    {
+        "address": "BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 1043300.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "300m² "
+    },
+    {
+        "address": "BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 995890.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "300m² "
+    },
+    {
+        "address": "11 Tallow Wood Close, WILBERFORCE NSW 2756",
+        "suburb": "WILBERFORCE",
+        "price": 2290000.0,
+        "beds": "6",
+        "baths": "2",
+        "parking": "4",
+        "size": "6,633m² "
+    },
+    {
+        "address": "Th 36 Grandeur Parade, RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 889990.0,
+        "beds": "5",
+        "baths": "3",
+        "parking": "1",
+        "size": "234m² "
+    },
+    {
+        "address": "4 Chrisan Close, WERRINGTON NSW 2747",
+        "suburb": "WERRINGTON",
+        "price": 850000.0,
+        "beds": "3",
+        "baths": "1",
+        "parking": "2",
+        "size": "670m² "
+    },
+    {
+        "address": "14 Galaxy Street, SCHOFIELDS NSW 2762",
+        "suburb": "SCHOFIELDS",
+        "price": 1119990.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "312m² "
+    },
+    {
+        "address": "57 Persea Avenue, RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 1019990.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "354m² "
+    },
+    {
+        "address": "47 Carney Crescent, SCHOFIELDS NSW 2762",
+        "suburb": "SCHOFIELDS",
+        "price": 1369990.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "2",
+        "size": "331m² "
+    },
+    {
+        "address": "LOWER PORTLAND NSW 2756",
+        "suburb": "LOWER PORTLAND",
+        "price": 2350000.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "7",
+        "size": "32.37ha "
+    },
+    {
+        "address": "123 Hambledon Road, SCHOFIELDS NSW 2762",
+        "suburb": "SCHOFIELDS",
+        "price": 1250000.0,
+        "beds": "5",
+        "baths": "3",
+        "parking": "2",
+        "size": null
+    },
+    {
+        "address": "47 Bolin Street, SCHOFIELDS NSW 2762",
+        "suburb": "SCHOFIELDS",
+        "price": 895000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "255m² "
+    },
+    {
+        "address": "340 Old Stock Route Road, OAKVILLE NSW 2765",
+        "suburb": "OAKVILLE",
+        "price": 2990000.0,
+        "beds": "7",
+        "baths": "4",
+        "parking": "2",
+        "size": "20,234m² "
+    },
+    {
+        "address": "MCGRATHS HILL NSW 2756",
+        "suburb": "MCGRATHS HILL",
+        "price": 920000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "505m² "
+    },
+    {
+        "address": "Castilian Street, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 1029000.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "1",
+        "size": "312m² "
+    },
+    {
+        "address": "Castilian Street, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 1135500.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "2",
+        "size": "312m² "
+    },
+    {
+        "address": "2/13 Stafford Street, KINGSWOOD NSW 2747",
+        "suburb": "KINGSWOOD",
+        "price": 595000.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "13 Jason Avenue, SOUTH PENRITH NSW 2750",
+        "suburb": "SOUTH PENRITH",
+        "price": 825000.0,
+        "beds": "3",
+        "baths": "1",
+        "parking": "2",
+        "size": "766m² "
+    },
+    {
+        "address": "2/68 William Street, NORTH RICHMOND NSW 2754",
+        "suburb": "NORTH RICHMOND",
+        "price": 499000.0,
+        "beds": "2",
+        "baths": "1",
+        "parking": "1",
+        "size": "180m² "
+    },
+    {
+        "address": "7 Bernard Place, MOUNT DRUITT NSW 2770",
+        "suburb": "MOUNT DRUITT",
+        "price": 779950.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "2",
+        "size": "556m² "
+    },
+    {
+        "address": "Box Hill Heights, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 999000.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "2",
+        "size": "312m² "
+    },
+    {
+        "address": "Lot 17/19 Edmund Street, RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 949990.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "Limited Lots!! Addre Available On Request, TALLAWONG NSW 2762",
+        "suburb": "TALLAWONG",
+        "price": 1090000.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "2",
+        "size": "338m² "
+    },
+    {
+        "address": "Limited Lots!! Addre Available On Request, TALLAWONG NSW 2762",
+        "suburb": "TALLAWONG",
+        "price": 1090000.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "2",
+        "size": "338m² "
+    },
+    {
+        "address": "Contact Agent for Address, SCHOFIELDS NSW 2762",
+        "suburb": "SCHOFIELDS",
+        "price": 739000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "180m² "
+    },
+    {
+        "address": "Pettitt Avenue, RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 899999.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "256m² "
+    },
+    {
+        "address": "23a Junction Road, SCHOFIELDS NSW 2762",
+        "suburb": "SCHOFIELDS",
+        "price": 1050000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "390m² "
+    },
+    {
+        "address": "2 Guma Glade, RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 829990.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "1",
+        "size": "222m² "
+    },
+    {
+        "address": "Lot 9505 Proposed road, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 899900.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "251m² "
+    },
+    {
+        "address": "Lot 12 Proposed road, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 1064900.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "300m² "
+    },
+    {
+        "address": "Lot 11 Proposed road, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 1056900.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "2",
+        "size": "300m² "
+    },
+    {
+        "address": "Lot 10 Proposed road, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 1049900.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "300m² "
+    },
+    {
+        "address": "Lot 9 Proposed road, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 1019900.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "300m² "
+    },
+    {
+        "address": "Lot 8 Proposed road, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 997900.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "300m² "
+    },
+    {
+        "address": "Lot 7 Proposed road, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 974900.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "300m² "
+    },
+    {
+        "address": "Lot 5 Proposed road, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 969900.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "300m² "
+    },
+    {
+        "address": "Lot 4 Proposed road, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 949900.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "300m² "
+    },
+    {
+        "address": "Lot 3 Proposed road, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 948900.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "1",
+        "size": "300m² "
+    },
+    {
+        "address": "Lot 2 Proposed road, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 931900.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "1",
+        "size": "300m² "
+    },
+    {
+        "address": "Lot 1 proposed road, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 931900.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "1",
+        "size": "300m² "
+    },
+    {
+        "address": "Th 26 Grandeur Parade, RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 869990.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "221m² "
+    },
+    {
+        "address": "66 Reid Street, WERRINGTON NSW 2747",
+        "suburb": "WERRINGTON",
+        "price": 959000.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "4",
+        "size": "1,208m² "
+    },
+    {
+        "address": "36B Derwent Street, MOUNT DRUITT NSW 2770",
+        "suburb": "MOUNT DRUITT",
+        "price": 590000.0,
+        "beds": "3",
+        "baths": "1",
+        "parking": "2",
+        "size": null
+    },
+    {
+        "address": "BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 1036000.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "2",
+        "size": "312m² "
+    },
+    {
+        "address": "Lot No 4 / 46 Dongola Circuit, SCHOFIELDS NSW 2762",
+        "suburb": "SCHOFIELDS",
+        "price": 1099990.0,
+        "beds": "5",
+        "baths": "3",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 887500.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "250m² "
+    },
+    {
+        "address": "1 Biscoe Place, TREGEAR NSW 2770",
+        "suburb": "TREGEAR",
+        "price": 669950.0,
+        "beds": "3",
+        "baths": "1",
+        "parking": "5",
+        "size": "613m² "
+    },
+    {
+        "address": "Lot 7044 Ventasso Street, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 1179900.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "300m² "
+    },
+    {
+        "address": "Lot 7045 Ventasso Street, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 1149900.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "300m² "
+    },
+    {
+        "address": "141-147 Third Road, BERKSHIRE PARK NSW 2765",
+        "suburb": "BERKSHIRE PARK",
+        "price": 2899999.0,
+        "beds": "6",
+        "baths": "4",
+        "parking": "8",
+        "size": "16,187m² "
+    },
+    {
+        "address": "Lot 56 proposed road, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 899900.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "1",
+        "size": "256m² "
+    },
+    {
+        "address": "48-50 Cox Street, SOUTH WINDSOR NSW 2756",
+        "suburb": "SOUTH WINDSOR",
+        "price": 669950.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "2",
+        "size": null
+    },
+    {
+        "address": "LOT TBA KYOGLE STREET, COLEBEE NSW 2761",
+        "suburb": "COLEBEE",
+        "price": 1042880.0,
+        "beds": "5",
+        "baths": "2",
+        "parking": "2",
+        "size": "295m² "
+    },
+    {
+        "address": "LOT TBA PROPOSED STREET, COLEBEE NSW 2761",
+        "suburb": "COLEBEE",
+        "price": 932775.0,
+        "beds": "5",
+        "baths": "2",
+        "parking": "1",
+        "size": "259m² "
+    },
+    {
+        "address": "LOT TBA TATHAM ROAD, COLEBEE NSW 2761",
+        "suburb": "COLEBEE",
+        "price": 958900.0,
+        "beds": "5",
+        "baths": "2",
+        "parking": "2",
+        "size": "260m² "
+    },
+    {
+        "address": "5 Blazer Street, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 1090000.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "2",
+        "size": "258m² "
+    },
+    {
+        "address": "1 Vassallo Place, GLENDENNING NSW 2761",
+        "suburb": "GLENDENNING",
+        "price": 720000.0,
+        "beds": "3",
+        "baths": "1",
+        "parking": "1",
+        "size": "287m² "
+    },
+    {
+        "address": "7 Markwell Place, AGNES BANKS NSW 2753",
+        "suburb": "AGNES BANKS",
+        "price": 1395000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "4",
+        "size": "689m² "
+    },
+    {
+        "address": "RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 875000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "250m² "
+    },
+    {
+        "address": "121 Proposed Road, VINEYARD NSW 2765",
+        "suburb": "VINEYARD",
+        "price": 848780.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "2",
+        "size": "273m² "
+    },
+    {
+        "address": "6 Vaucluse Street, SCHOFIELDS NSW 2762",
+        "suburb": "SCHOFIELDS",
+        "price": 1299990.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "356m² "
+    },
+    {
+        "address": "132/91-95 Mackellar Street, EMU PLAINS NSW 2750",
+        "suburb": "EMU PLAINS",
+        "price": 210000.0,
+        "beds": "1",
+        "baths": "1",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "235a Macquarie Street, SOUTH WINDSOR NSW 2756",
+        "suburb": "SOUTH WINDSOR",
+        "price": 777000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "329m² "
+    },
+    {
+        "address": "16A Worcester Road, CAMBRIDGE PARK NSW 2747",
+        "suburb": "CAMBRIDGE PARK",
+        "price": 500000.0,
+        "beds": "3",
+        "baths": "1",
+        "parking": 0,
+        "size": null
+    },
+    {
+        "address": "BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 996000.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "1",
+        "size": "311m² "
+    },
+    {
+        "address": "37/91-95 Mackellar Street, EMU PLAINS NSW 2750",
+        "suburb": "EMU PLAINS",
+        "price": 440000.0,
+        "beds": "2",
+        "baths": "1",
+        "parking": "2",
+        "size": null
+    },
+    {
+        "address": "Lot 9501 Rhinelander St, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 855000.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "2",
+        "size": "255m² "
+    },
+    {
+        "address": "93 Mahons Creek Road, YARRAMUNDI NSW 2753",
+        "suburb": "YARRAMUNDI",
+        "price": 1850000.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "4",
+        "size": "129,499m² "
+    },
+    {
+        "address": "13 Garreffa Street, RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 969990.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "1",
+        "size": "353m² "
+    },
+    {
+        "address": "BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 979000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "300m² "
+    },
+    {
+        "address": "RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 906000.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "1",
+        "size": "322m² "
+    },
+    {
+        "address": "BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 976000.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "1",
+        "size": "300m² "
+    },
+    {
+        "address": "BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 949000.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "1",
+        "size": "273m² "
+    },
+    {
+        "address": "BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 920000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "273m² "
+    },
+    {
+        "address": "Lot 0 Proposed Road, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 989900.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "2",
+        "size": "300m² "
+    },
+    {
+        "address": "Lot 0 Proposed Road, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 954800.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "1",
+        "size": "300m² "
+    },
+    {
+        "address": "Lot 0 Proposed Road, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 919900.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "251m² "
+    },
+    {
+        "address": "38 Schembri Street, RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 900000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "300m² "
+    },
+    {
+        "address": "27 Cusack Road, OAKVILLE NSW 2765",
+        "suburb": "OAKVILLE",
+        "price": 5.0,
+        "beds": "6",
+        "baths": "4",
+        "parking": "5",
+        "size": "2.83ha "
+    },
+    {
+        "address": "32/70 Riverstone Rd, RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 889700.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "1",
+        "size": "250m² "
+    },
+    {
+        "address": "37/70 Riverstone Rd, RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 845700.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "1",
+        "size": "250m² "
+    },
+    {
+        "address": "32 Galaxy Street, SCHOFIELDS NSW 2762",
+        "suburb": "SCHOFIELDS",
+        "price": 1419990.0,
+        "beds": "5",
+        "baths": "3",
+        "parking": "1",
+        "size": "300m² "
+    },
+    {
+        "address": "Level 120 Futurity Street, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 1120000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "300m² "
+    },
+    {
+        "address": "51 Northridge Road, JORDAN SPRINGS NSW 2747",
+        "suburb": "JORDAN SPRINGS",
+        "price": 799000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "389m² "
+    },
+    {
+        "address": "144 Sackville Ferry Rd, SOUTH MAROOTA NSW 2756",
+        "suburb": "SOUTH MAROOTA",
+        "price": 1575000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "3",
+        "size": "10.15ha "
+    },
+    {
+        "address": "92 Stuart Road, DHARRUK NSW 2770",
+        "suburb": "DHARRUK",
+        "price": 820000.0,
+        "beds": "5",
+        "baths": "1",
+        "parking": 0,
+        "size": "559m² "
+    },
+    {
+        "address": "RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 1049000.0,
+        "beds": "6",
+        "baths": "4",
+        "parking": "2",
+        "size": "305m² "
+    },
+    {
+        "address": "2/7 Rance Road, WERRINGTON NSW 2747",
+        "suburb": "WERRINGTON",
+        "price": 569000.0,
+        "beds": "2",
+        "baths": "2",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "13 Zappia Street, RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 929990.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "225m² "
+    },
+    {
+        "address": "3/586 George Street, SOUTH WINDSOR NSW 2756",
+        "suburb": "SOUTH WINDSOR",
+        "price": 650000.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "3/37 First Street, KINGSWOOD NSW 2747",
+        "suburb": "KINGSWOOD",
+        "price": 469000.0,
+        "beds": "2",
+        "baths": "2",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "123/91-95 Mackellar Street, EMU PLAINS NSW 2750",
+        "suburb": "EMU PLAINS",
+        "price": 205000.0,
+        "beds": "2",
+        "baths": "1",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "Lot 0 Proposed Road, RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 988800.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "301m² "
+    },
+    {
+        "address": "Lot 0 Proposed Road, RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 883800.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "2",
+        "size": "301m² "
+    },
+    {
+        "address": "607 George Street, SOUTH WINDSOR NSW 2756",
+        "suburb": "SOUTH WINDSOR",
+        "price": 1800000.0,
+        "beds": "6",
+        "baths": "3",
+        "parking": "6",
+        "size": "2,333m² "
+    },
+    {
+        "address": "Tbp Wadham Street, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 889999.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": null
+    },
+    {
+        "address": "Tba Gelt Street, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 950000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "359m² "
+    },
+    {
+        "address": "15 Tanner Place, MINCHINBURY NSW 2770",
+        "suburb": "MINCHINBURY",
+        "price": 970000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": null
+    },
+    {
+        "address": "26 Esperance street, SCHOFIELDS NSW 2762",
+        "suburb": "SCHOFIELDS",
+        "price": 1449990.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "2",
+        "size": "300m² "
+    },
+    {
+        "address": "20 Station  Street, SCHOFIELDS NSW 2762",
+        "suburb": "SCHOFIELDS",
+        "price": 870000.0,
+        "beds": "3",
+        "baths": "1",
+        "parking": "2",
+        "size": "847m² "
+    },
+    {
+        "address": "VINEYARD NSW 2765",
+        "suburb": "VINEYARD",
+        "price": 873360.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "2",
+        "size": "279m² "
+    },
+    {
+        "address": "VINEYARD NSW 2765",
+        "suburb": "VINEYARD",
+        "price": 834000.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "2",
+        "size": "310m² "
+    },
+    {
+        "address": "OAKVILLE NSW 2765",
+        "suburb": "OAKVILLE",
+        "price": 909000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "340m² "
+    },
+    {
+        "address": "OAKVILLE NSW 2765",
+        "suburb": "OAKVILLE",
+        "price": 909000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "378m² "
+    },
+    {
+        "address": "Lot 39/112 Symonds Road, COLEBEE NSW 2761",
+        "suburb": "COLEBEE",
+        "price": 949990.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "Hills Of Caramel Available On Request, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 985000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "300m² "
+    },
+    {
+        "address": "Hills Of Caramel Available On Request, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 975000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "312m² "
+    },
+    {
+        "address": "59 Neptune Circuit, SCHOFIELDS NSW 2762",
+        "suburb": "SCHOFIELDS",
+        "price": 1299990.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "450m² "
+    },
+    {
+        "address": "71 Neptune Circuit, SCHOFIELDS NSW 2762",
+        "suburb": "SCHOFIELDS",
+        "price": 1199990.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "339m² "
+    },
+    {
+        "address": "22/90 Parkwood street, PLUMPTON NSW 2761",
+        "suburb": "PLUMPTON",
+        "price": 599000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "83a Fuller Street, MOUNT DRUITT NSW 2770",
+        "suburb": "MOUNT DRUITT",
+        "price": 679000.0,
+        "beds": "4",
+        "baths": "1",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "38 Beacon Drive, SCHOFIELDS NSW 2762",
+        "suburb": "SCHOFIELDS",
+        "price": 1199990.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "1",
+        "size": "250m² "
+    },
+    {
+        "address": "4 Effie Glade (Proposed Address), SCHOFIELDS NSW 2762",
+        "suburb": "SCHOFIELDS",
+        "price": 869990.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "1",
+        "size": "179m² "
+    },
+    {
+        "address": "BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 998000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "335m² "
+    },
+    {
+        "address": "BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 950000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "336m² "
+    },
+    {
+        "address": "LOT TBA Gelt Street, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 990000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "336m² "
+    },
+    {
+        "address": ". Garreffa Street, RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 949990.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "3 Orion Place, LEONAY NSW 2750",
+        "suburb": "LEONAY",
+        "price": 1125000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": null
+    },
+    {
+        "address": "8 Mersey Crescent, SCHOFIELDS NSW 2762",
+        "suburb": "SCHOFIELDS",
+        "price": 1449990.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "340m² "
+    },
+    {
+        "address": "JORDAN SPRINGS NSW 2747",
+        "suburb": "JORDAN SPRINGS",
+        "price": 675000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "192m² "
+    },
+    {
+        "address": "Lot 122, 161 Crown Street, RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 833000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "293m² "
+    },
+    {
+        "address": "RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 908000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "350m² "
+    },
+    {
+        "address": "Terry Road, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 899000.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "1",
+        "size": "300m² "
+    },
+    {
+        "address": "Lot 0 Proposed Road, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 989900.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "300m² "
+    },
+    {
+        "address": "14 Gwyneth Parade (Corner of Hausfield St), SCHOFIELDS NSW 2762",
+        "suburb": "SCHOFIELDS",
+        "price": 1339990.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "2",
+        "size": "300m² "
+    },
+    {
+        "address": "RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 950000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "350m² "
+    },
+    {
+        "address": "RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 950000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "301m² "
+    },
+    {
+        "address": "RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 1012000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "387m² "
+    },
+    {
+        "address": "296 Caddens Road, CLAREMONT MEADOWS NSW 2747",
+        "suburb": "CLAREMONT MEADOWS",
+        "price": 1720000.0,
+        "beds": "6",
+        "baths": "4",
+        "parking": "7",
+        "size": "550m² "
+    },
+    {
+        "address": "RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 980000.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "2",
+        "size": "387m² "
+    },
+    {
+        "address": "RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 945000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "350m² "
+    },
+    {
+        "address": "161 Crown Street, RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 950000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "301m² "
+    },
+    {
+        "address": "RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 1067000.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "2",
+        "size": "438m² "
+    },
+    {
+        "address": "RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 950000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "293m² "
+    },
+    {
+        "address": "31 Zappia Street, RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 1099990.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "271m² "
+    },
+    {
+        "address": "32 Micallef Street, RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 969990.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "251m² "
+    },
+    {
+        "address": "25 Zappia Street, RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 939990.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "234m² "
+    },
+    {
+        "address": "27 Edmund Street, RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 1029000.0,
+        "beds": "6",
+        "baths": "4",
+        "parking": "2",
+        "size": "331m² "
+    },
+    {
+        "address": "RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 888000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": null
+    },
+    {
+        "address": "BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 889999.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "387m² "
+    },
+    {
+        "address": "TBP Wadham Street, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 945999.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": null
+    },
+    {
+        "address": "TBA Boundary Road, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 1029000.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "2",
+        "size": "335m² "
+    },
+    {
+        "address": "RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 888000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": null
+    },
+    {
+        "address": "BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 920000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "273m² "
+    },
+    {
+        "address": "BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 1332000.0,
+        "beds": "5",
+        "baths": "3",
+        "parking": "2",
+        "size": "400m² "
+    },
+    {
+        "address": "BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 953000.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "2",
+        "size": "500m² "
+    },
+    {
+        "address": "1 Cirrus Street, SCHOFIELDS NSW 2762",
+        "suburb": "SCHOFIELDS",
+        "price": 1599990.0,
+        "beds": "5",
+        "baths": "3",
+        "parking": "2",
+        "size": "363m² "
+    },
+    {
+        "address": "Lot 12 Kent Road, CLAREMONT MEADOWS NSW 2747",
+        "suburb": "CLAREMONT MEADOWS",
+        "price": 1199990.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": null
+    },
+    {
+        "address": "RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 849999.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "2",
+        "size": null
+    },
+    {
+        "address": "111 Proposed Road, VINEYARD NSW 2765",
+        "suburb": "VINEYARD",
+        "price": 1200800.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "2",
+        "size": "375m² "
+    },
+    {
+        "address": "Lot 27 Edmund Street, RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 1049000.0,
+        "beds": "6",
+        "baths": "4",
+        "parking": "2",
+        "size": "331m² "
+    },
+    {
+        "address": "Lot 27 Edmund Street, RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 1049000.0,
+        "beds": "6",
+        "baths": "4",
+        "parking": "2",
+        "size": "331m² "
+    },
+    {
+        "address": "RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 949999.0,
+        "beds": "6",
+        "baths": "4",
+        "parking": "2",
+        "size": "331m² "
+    },
+    {
+        "address": "RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 849999.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "2",
+        "size": "400m² "
+    },
+    {
+        "address": "BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 980000.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "1",
+        "size": "300m² "
+    },
+    {
+        "address": "45 St Albans Road, SCHOFIELDS NSW 2762",
+        "suburb": "SCHOFIELDS",
+        "price": 1400000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "1,161m² "
+    },
+    {
+        "address": "BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 1035000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "372m² "
+    },
+    {
+        "address": "RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 999999.0,
+        "beds": "6",
+        "baths": "4",
+        "parking": "2",
+        "size": "331m² "
+    },
+    {
+        "address": "RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 949999.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "387m² "
+    },
+    {
+        "address": "TH 8 / 47 Hynds Road (Proposed address), BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 899990.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "153 Milton Road, RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 259950.0,
+        "beds": "297",
+        "baths": null,
+        "parking": 0,
+        "size": null
+    },
+    {
+        "address": "7 Zappia Street, RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 929990.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "225m² "
+    },
+    {
+        "address": "RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 950000.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "1",
+        "size": "276m² "
+    },
+    {
+        "address": "RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 950000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "400m² "
+    },
+    {
+        "address": "New proposed road, RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 789990.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "250m² "
+    },
+    {
+        "address": "14 Ann Minchin  Way, MINCHINBURY NSW 2770",
+        "suburb": "MINCHINBURY",
+        "price": 1500000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "4",
+        "size": "1,181m² "
+    },
+    {
+        "address": "RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 849999.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "2",
+        "size": null
+    },
+    {
+        "address": "23 Hynds Road, BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 925600.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "258m² "
+    },
+    {
+        "address": "TH 76 / 47 Hynds Road (Proposed address), BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 839990.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "RIVERSTONE NSW 2765",
+        "suburb": "RIVERSTONE",
+        "price": 848000.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "1",
+        "size": "293m² "
+    },
+    {
+        "address": "JORDAN SPRINGS NSW 2747",
+        "suburb": "JORDAN SPRINGS",
+        "price": 675000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "192m² "
+    },
+    {
+        "address": "Lot 127 Kewney Street ( Proposed Address), BOX HILL NSW 2765",
+        "suburb": "BOX HILL",
+        "price": 1199990.0,
+        "beds": "5",
+        "baths": "3",
+        "parking": "1",
+        "size": "300m² "
+    }
+]

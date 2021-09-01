@@ -1,0 +1,490 @@
+[
+    {
+        "address": "PENRITH",
+        "price": 729000.0,
+        "beds": "3",
+        "baths": "1",
+        "parking": "2",
+        "size": "696m² "
+    },
+    {
+        "address": "PENRITH",
+        "price": 789000.0,
+        "beds": "4",
+        "baths": "3",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "PENRITH",
+        "price": 750000.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "3",
+        "size": null
+    },
+    {
+        "address": "PENRITH",
+        "price": 950000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "3",
+        "size": "628m² "
+    },
+    {
+        "address": "PENRITH",
+        "price": 375000.0,
+        "beds": "2",
+        "baths": "1",
+        "parking": 0,
+        "size": null
+    },
+    {
+        "address": "PENRITH",
+        "price": 549000.0,
+        "beds": "3",
+        "baths": "1",
+        "parking": "2",
+        "size": null
+    },
+    {
+        "address": "PENRITH",
+        "price": 749000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "556m² "
+    },
+    {
+        "address": "PENRITH",
+        "price": 699000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "645m² "
+    },
+    {
+        "address": "PENRITH",
+        "price": 559950.0,
+        "beds": "3",
+        "baths": "1",
+        "parking": "2",
+        "size": null
+    },
+    {
+        "address": "PENRITH",
+        "price": 690000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": null
+    },
+    {
+        "address": "PENRITH",
+        "price": 599000.0,
+        "beds": "2",
+        "baths": "2",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "PENRITH",
+        "price": 1000000.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "3",
+        "size": null
+    },
+    {
+        "address": "PENRITH",
+        "price": 1199000.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "2",
+        "size": "668m² "
+    },
+    {
+        "address": "PENRITH",
+        "price": 75000.0,
+        "beds": "1",
+        "baths": "1",
+        "parking": 0,
+        "size": null
+    },
+    {
+        "address": "PENRITH",
+        "price": 99000.0,
+        "beds": "2",
+        "baths": "1",
+        "parking": 0,
+        "size": null
+    },
+    {
+        "address": "PENRITH",
+        "price": 99000.0,
+        "beds": "2",
+        "baths": "1",
+        "parking": 0,
+        "size": null
+    },
+    {
+        "address": "PENRITH",
+        "price": 499000.0,
+        "beds": "3",
+        "baths": "1",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "PENRITH",
+        "price": 1200000.0,
+        "beds": "5",
+        "baths": "3",
+        "parking": "2",
+        "size": "619m² "
+    },
+    {
+        "address": "CAMBRIDGE PARK",
+        "price": 549000.0,
+        "beds": "3",
+        "baths": "1",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "EMU PLAINS",
+        "price": 849000.0,
+        "beds": "3",
+        "baths": "1",
+        "parking": "2",
+        "size": "700m² "
+    },
+    {
+        "address": "EMU PLAINS",
+        "price": 849000.0,
+        "beds": "3",
+        "baths": "1",
+        "parking": "2",
+        "size": "683m² "
+    },
+    {
+        "address": "CRANEBROOK",
+        "price": 749000.0,
+        "beds": "3",
+        "baths": "1",
+        "parking": "2",
+        "size": "634m² "
+    },
+    {
+        "address": "WERRINGTON DOWNS",
+        "price": 799000.0,
+        "beds": "3",
+        "baths": "1",
+        "parking": "3",
+        "size": "626m² "
+    },
+    {
+        "address": "JORDAN SPRINGS",
+        "price": 800000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "538m² "
+    },
+    {
+        "address": "CRANEBROOK",
+        "price": 745000.0,
+        "beds": "3",
+        "baths": "1",
+        "parking": "1",
+        "size": "633m² "
+    },
+    {
+        "address": "CRANEBROOK",
+        "price": 749000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": 0,
+        "size": "625m² "
+    },
+    {
+        "address": "SOUTH PENRITH",
+        "price": 799000.0,
+        "beds": "3",
+        "baths": "1",
+        "parking": "1",
+        "size": "645m² "
+    },
+    {
+        "address": "KINGSWOOD",
+        "price": 439000.0,
+        "beds": "3",
+        "baths": "1",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "CRANEBROOK",
+        "price": 769000.0,
+        "beds": "5",
+        "baths": "2",
+        "parking": "2",
+        "size": "802m² "
+    },
+    {
+        "address": "JORDAN SPRINGS",
+        "price": 799000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "300m² "
+    },
+    {
+        "address": "WERRINGTON",
+        "price": 803800.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "253m² "
+    },
+    {
+        "address": "WERRINGTON",
+        "price": 713800.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "1",
+        "size": "253m² "
+    },
+    {
+        "address": "WERRINGTON DOWNS",
+        "price": 829000.0,
+        "beds": "5",
+        "baths": "2",
+        "parking": "2",
+        "size": "625m² "
+    },
+    {
+        "address": "CRANEBROOK",
+        "price": 1550000.0,
+        "beds": "7",
+        "baths": "4",
+        "parking": "6",
+        "size": "1,078m² "
+    },
+    {
+        "address": "WERRINGTON DOWNS",
+        "price": 929000.0,
+        "beds": "5",
+        "baths": "2",
+        "parking": 0,
+        "size": "625m² "
+    },
+    {
+        "address": "KINGSWOOD",
+        "price": 745000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "549m² "
+    },
+    {
+        "address": "CAMBRIDGE PARK",
+        "price": 579000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": null
+    },
+    {
+        "address": "WERRINGTON",
+        "price": 799900.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "253m² "
+    },
+    {
+        "address": "JORDAN SPRINGS",
+        "price": 939000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "372m² "
+    },
+    {
+        "address": "CAMBRIDGE PARK",
+        "price": 900000.0,
+        "beds": "5",
+        "baths": "2",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "EMU PLAINS",
+        "price": 830000.0,
+        "beds": "3",
+        "baths": "1",
+        "parking": "1",
+        "size": "556m² "
+    },
+    {
+        "address": "KINGSWOOD",
+        "price": 499000.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "CLAREMONT MEADOWS",
+        "price": 815000.0,
+        "beds": "3",
+        "baths": "1",
+        "parking": "2",
+        "size": null
+    },
+    {
+        "address": "WERRINGTON",
+        "price": 850000.0,
+        "beds": "3",
+        "baths": "1",
+        "parking": "2",
+        "size": "670m² "
+    },
+    {
+        "address": "KINGSWOOD",
+        "price": 595000.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "SOUTH PENRITH",
+        "price": 825000.0,
+        "beds": "3",
+        "baths": "1",
+        "parking": "2",
+        "size": "766m² "
+    },
+    {
+        "address": "WERRINGTON",
+        "price": 959000.0,
+        "beds": "3",
+        "baths": "2",
+        "parking": "4",
+        "size": "1,208m² "
+    },
+    {
+        "address": "EMU PLAINS",
+        "price": 210000.0,
+        "beds": "1",
+        "baths": "1",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "CAMBRIDGE PARK",
+        "price": 500000.0,
+        "beds": "3",
+        "baths": "1",
+        "parking": 0,
+        "size": null
+    },
+    {
+        "address": "EMU PLAINS",
+        "price": 440000.0,
+        "beds": "2",
+        "baths": "1",
+        "parking": "2",
+        "size": null
+    },
+    {
+        "address": "JORDAN SPRINGS",
+        "price": 799000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": "389m² "
+    },
+    {
+        "address": "WERRINGTON",
+        "price": 569000.0,
+        "beds": "2",
+        "baths": "2",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "KINGSWOOD",
+        "price": 469000.0,
+        "beds": "2",
+        "baths": "2",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "EMU PLAINS",
+        "price": 205000.0,
+        "beds": "2",
+        "baths": "1",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "LEONAY",
+        "price": 1125000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": null
+    },
+    {
+        "address": "JORDAN SPRINGS",
+        "price": 675000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "192m² "
+    },
+    {
+        "address": "CLAREMONT MEADOWS",
+        "price": 1720000.0,
+        "beds": "6",
+        "baths": "4",
+        "parking": "7",
+        "size": "550m² "
+    },
+    {
+        "address": "CLAREMONT MEADOWS",
+        "price": 1199990.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "2",
+        "size": null
+    },
+    {
+        "address": "JORDAN SPRINGS",
+        "price": 675000.0,
+        "beds": "4",
+        "baths": "2",
+        "parking": "1",
+        "size": "192m² "
+    },
+    {
+        "address": "EMU PLAINS",
+        "price": 220000.0,
+        "beds": "2",
+        "baths": "1",
+        "parking": "1",
+        "size": null
+    },
+    {
+        "address": "CASTLEREAGH",
+        "price": 2900000.0,
+        "beds": "7",
+        "baths": "6",
+        "parking": "12",
+        "size": "2.02ha "
+    }
+]
